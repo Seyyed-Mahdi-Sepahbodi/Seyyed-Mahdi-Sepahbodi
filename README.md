@@ -26,9 +26,13 @@
     <a href="https://instagram.com/YOUR_INSTAGRAM_ID" style="margin: 0 5px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </div>
 
-  <div style="text-align: left; max-width: 860px; margin: 30px auto; padding: 20px; background: #010409; border: 1px solid #30363d; border-radius: 12px;">
+  
+
+</div>
+
+<div style="text-align: left; max-width: 860px; margin: 30px auto; padding: 20px; background: #010409; border: 1px solid #30363d; border-radius: 12px;">
     
-  <h3 style="color: #7AA2F7; margin-top: 0; font-family: monospace;">&gt; root@:~$</h3>
+  <h3 style="color: #7AA2F7; margin-top: 0; font-family: monospace;">&gt; root@arsenal:~$</h3>
     
   <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e;">Languages & Frameworks</p>
   <p>
@@ -50,6 +54,4 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   </p>
-</div>
-
 </div>
