@@ -28,28 +28,28 @@
 
   <div style="text-align: left; max-width: 860px; margin: 30px auto; padding: 20px; background: #010409; border: 1px solid #30363d; border-radius: 12px;">
     
-    <h3 style="color: #7AA2F7; margin-top: 0; font-family: monospace;">&gt; root@arsenal:~$</h3>
+  <h3 style="color: #7AA2F7; margin-top: 0; font-family: monospace;">&gt; root@:~$</h3>
     
-    <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e;">Languages & Frameworks</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-    </p>
+  <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e;">Languages & Frameworks</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  </p>
 
-    <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e; margin-top: 15px;">Networking & Security</p>
-    <p>
-      <img src="https://img.shields.io/badge/CCNA-1F6FEB?style=flat-square" />
-      <img src="https://img.shields.io/badge/CEH-2C2C2C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </p>
+  <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e; margin-top: 15px;">Networking & Security</p>
+  <p>
+    <img src="https://img.shields.io/badge/CCNA-1F6FEB?style=flat-square" />
+    <img src="https://img.shields.io/badge/CEH-2C2C2C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </p>
 
-    <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e; margin-top: 15px;">Tools</p>
-    <p>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </p>
-  </div>
+  <p style="font-weight: bold; margin-bottom: 5px; color: #8b949e; margin-top: 15px;">Tools</p>
+  <p>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </p>
+</div>
 
 </div>
